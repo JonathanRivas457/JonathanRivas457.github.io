@@ -1,6 +1,6 @@
 title: "Jonathan's Data Science Portfolio"
 description: "Projects, notebooks, and data science work."
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "mistakes/minimal-mistakes"
 plugins:
   - jekyll-remote-theme
 nav:
