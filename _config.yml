@@ -1,2 +1,7 @@
 theme: jekyll-theme-minimal
 title: Jonathan's Data Science Portfolio
+nav:
+  - title: "Home"
+    url: /
+  - title: "Projects"
+    url: /projects
